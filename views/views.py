@@ -8,6 +8,11 @@ import uuid
 from app import app
 from models.models import *
 
+@app.route('/')
+def index():
+    return render_template('./templates/index.html')
+
+
 @app.route('/admin', methods=['POST'])
 def create_admin():
     data = request.get_json()
