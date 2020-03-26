@@ -1,0 +1,19 @@
+{
+  "login_password_incorrect" : "niepoprawy email albo haslo min 6 znakow",
+  "token_expired" : "token wygasl",
+  "token_incorrect" : "bledny token",
+  "admin_create" : "admin utworzony",
+  "user_create" : "uzytkownik utworzony",
+  "user_delete" : "uzytkownik usuniety",
+  "function_not_perform" : "nie mozna wykonac tej funkcji",
+  "user_not_found" : "nie znaleziono uzytkownika",
+  "user_promote" : "uzytkownik uzyskal prawa admin",
+  "todo_not_found" : "nie znaleziono todo",
+  "todo_create" : "utworzono todo",
+  "todo_complete" : "todo kompletne",
+  "todo_delete" : "usunieto todo",
+  "resettoken_incorrect" : "bledny resettoken",
+  "password_change_error" : "haslo min 6 znakow",
+  "password_change" : "haslo zostalo zmienione",
+  "not_veryfied" : "nie mozna zweryfikowac"
+}
